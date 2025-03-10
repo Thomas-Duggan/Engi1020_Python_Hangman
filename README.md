@@ -9,7 +9,7 @@ Requests a letter from the user, each incorrect guess decreases the chances by o
 
 ## Issues
 
- - Not enough testing.
+ - Prints "Correct!" multiple times when there several correct letters are found in a word.
 
 
 ## Copyright
